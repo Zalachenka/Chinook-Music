@@ -1,25 +1,45 @@
-# README
+#Chinook Music
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#Questions
 
-Things you may want to cover:
+#a) Niveau facile
 
-* Ruby version
+*Quel est le nombre total d'objets Album contenus dans la base (sans regarder les id bien sûr) ?*
 
-* System dependencies
+347 albums sont contenus dans la base.
 
-* Configuration
+*Qui est l'auteur de la chanson "White Room" ?*
 
-* Database creation
+Eric Clapton a écrit "White Room".
 
-* Database initialization
+*Quelle chanson dure exactement 188133 milliseconds ?*
 
-* How to run the test suite
+"Jagged Little Pill" de Alanis Morissette.
 
-* Services (job queues, cache servers, search engines, etc.)
+*Quel groupe a sorti l'album "Use Your Illusion II" ?*
 
-* Deployment instructions
+Guns 'N' Roses a sorti "Use Your Illusion II".
 
-* ...
-# Chinook-Music
+#b) Niveau Moyen
+
+*Combien y a t'il d'albums dont le titre contient "Great" ? (indice)*
+
+13 titres d'albums contiennent le mot "Great".
+
+*Supprime tous les albums dont le nom contient "music".*
+
+4 albums ont été supprimés.
+
+*Combien y a t'il d'albums écrits par AC/DC ?*
+
+2 albums écrits par AC/DC
+
+*Combien de chanson durent exactement 158589 millisecondes ?*
+
+Aucune.
+
+#c) Niveau Difficile
+
+Prix de "Let There Be Rock" : 7.92 (arrondi)
+Durée totale de "Let There Be Rock" : 2453259 ms (environ 41 minutes)
+Prix de la discographie de Deep Purple: 90.1 (arrondi)
