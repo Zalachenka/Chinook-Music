@@ -41,5 +41,7 @@ Aucune.
 #c) Niveau Difficile
 
 Prix de "Let There Be Rock" : 7.92 (arrondi)
+
 Durée totale de "Let There Be Rock" : 2453259 ms (environ 41 minutes)
+
 Prix de la discographie de Deep Purple: 90.1 (arrondi)
